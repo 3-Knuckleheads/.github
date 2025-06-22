@@ -1,6 +1,6 @@
 name: "User Story"
 description: Create a new ticket for a user story.
-title: "[USER STORY] - <title>"
+title: "[USER STORY] -"
 labels: [
   "documentation"
 ]
